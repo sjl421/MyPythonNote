@@ -9,7 +9,6 @@ of the txt file in which you have the desired text.
 import pprint
 import collections
 
-
 def main():
     file_input = input('File Name: ')
 
